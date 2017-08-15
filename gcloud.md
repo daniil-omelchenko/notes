@@ -1,6 +1,6 @@
 # gcloud
 
-## installation
+## Installation
 
 Download and install SDK https://cloud.google.com/sdk/docs/
 
@@ -18,13 +18,11 @@ gcloud components install app-engine-python
 gcloud components install app-engine-python-extras
 ```
 
-## setup PyCharm
+## Setup PyCharm
 
 Ensable Google App Engine in preferences.
 
 **gcloud** instalation path: 
-````
-/Users/<user>/google-cloud-sdk/platform/google_appengine
-```
+`/Users/<user>/google-cloud-sdk/platform/google_appengine`
 
-![](./preferences.png)
+![preferences](./preferences.png)
